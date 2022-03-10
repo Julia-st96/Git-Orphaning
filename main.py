@@ -3,4 +3,4 @@ def print_func(name):
 
 
 if __name__ == '__main__':
-    print_func('World')
+    print_func('world!!')
