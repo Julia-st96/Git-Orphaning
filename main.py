@@ -1,4 +1,5 @@
 def print_func(name):
+    print('--- Start ---')
     print(f'Hello, {name}!')
 
 
