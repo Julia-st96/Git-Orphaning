@@ -1,6 +1,7 @@
 def print_func(name):
     print('--- Start ---')
     print(f'Hello, {name}!')
+    print('---- End ----')
 
 
 if __name__ == '__main__':
